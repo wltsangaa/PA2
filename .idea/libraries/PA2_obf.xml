@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="PA2_obf">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/PA2 Obfuscated/PA2_obf.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

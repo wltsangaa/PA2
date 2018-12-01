@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="PA2 JavaDoc">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/PA2 JavaDoc/package-search-index.zip!/" />
+      <root url="jar://$PROJECT_DIR$/PA2 JavaDoc/member-search-index.zip!/" />
+      <root url="jar://$PROJECT_DIR$/PA2 JavaDoc/type-search-index.zip!/" />
+      <root url="jar://$PROJECT_DIR$/PA2 JavaDoc/module-search-index.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
