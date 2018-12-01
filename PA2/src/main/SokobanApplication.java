@@ -3,7 +3,7 @@ package main;
 import javafx.application.Application;
 import javafx.stage.Stage;
 import viewmodel.SceneManager;
-//project is done 
+//project is done2
 /**
  * Main application
  */
