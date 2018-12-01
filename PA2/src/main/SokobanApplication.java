@@ -3,7 +3,7 @@ package main;
 import javafx.application.Application;
 import javafx.stage.Stage;
 import viewmodel.SceneManager;
-//done github
+//done github2
 /**
  * Main application
  */
